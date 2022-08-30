@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3208ac0c","path":"/en_US/config/routing.html","title":"","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1661027809000,"contributors":[{"name":"kouwei32","email":"kouwei32@foxmail.com","commits":1}]},"filePathRelative":"en_US/config/routing.md"}');export{e as data};
